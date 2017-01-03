@@ -1,3 +1,2 @@
 # This is a test file just for git
-# This is a test file just for git
-# This is a test for branch dev1 different from master
+# This is a test for dev1 branch
