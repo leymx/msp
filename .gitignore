@@ -1,4 +1,5 @@
 # Files
 *.pyc
+*.log
 # Directory
 migrations/
